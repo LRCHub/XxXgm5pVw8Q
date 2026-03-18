@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キミヲエガイテル",
+  "base_artist": "Yxn KILA & imaizumi",
+  "createdAt": "2026-03-18T19:33:36.988764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミヲエガイテル",
+      "artist": "Yxn KILA",
+      "has_synced": true,
+      "path": "select/01_キミヲエガイテル_Yxn_KILA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミヲエガイテル - kimiwoegaiteru",
+      "artist": "Yxn KILA & imaizumi",
+      "has_synced": true,
+      "path": "select/02_キミヲエガイテル_-_kimiwoegaiteru_Yxn_KILA_&_imaizumi.lrc"
+    }
+  ]
+}
